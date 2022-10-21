@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Paskanas
-- 👀 I’m interested in HTML, CSS, javascript, React, PHP, NODE.JS, 
-- 🌱 I’m currently learning HTML, CSS, javascript, php
+- 👀 I’m interested in PHP, HTML, CSS, javascript, React, PHP, NODE.JS, 
 - 💞️ I’m looking to collaborate on doing fun learning projects
 - 📫 How to reach me ...
 
