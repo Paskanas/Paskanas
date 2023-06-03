@@ -1,5 +1,5 @@
 * 👋 Hi, I’m @Paskanas
-* 👀 I’m interested in PHP, Laravel, HTML, CSS, JavaScript, React.JS, NODE.JS, TypeScript
+* 👀 I’m interested in Laravel, React.JS, TypeScript and open to new skills
 * Skill set:
   * Database:
     * MySQL
